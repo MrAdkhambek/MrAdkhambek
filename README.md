@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with Learn English
 - 💬 Ask me about Android developmen, Kotlin development and Backend (Vert.x, Spring Boot) development
 - 📫 How to reach me: https://t.me/mr_adkhambek
-- ⚡ Fun fact about me: I'm muslim. I don't know russian.
+- ⚡ Facts about me: I'm muslim. I don't know russian.
