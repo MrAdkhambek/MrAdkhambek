@@ -10,4 +10,4 @@
 - 🤯  My skils: Android (from 3 years), Backend (from 6 months)
 
 
-![R2](https://giphy.com/gifs/starwars-season-5-star-wars-3o84sKpXBhJ0tRhqJa)
+![R2](https://media.giphy.com/media/3owzWgQMNEdnuQFPMs/giphy.gif)
