@@ -8,3 +8,6 @@
 - 📫  How to reach me: https://t.me/mr_adkhambek
 - ⚡   Fun fact about me: I'm muslim. I do'nt know russian.
 - 🤯  My skils: Android (from 3 years), Backend (from 6 months)
+
+
+![R2](https://giphy.com/gifs/starwars-season-5-star-wars-3o84sKpXBhJ0tRhqJa)
