@@ -10,4 +10,4 @@
 - 🤯  My skils: Android (from 3 years), Backend (from 6 months)
 
 
-![R2](http://gph.is/2poMzKx)
+![R2](https://media.giphy.com/media/3o84sKpXBhJ0tRhqJa/giphy.gif)
