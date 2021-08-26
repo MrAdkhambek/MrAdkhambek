@@ -8,7 +8,7 @@
 - 💬  Ask me about Android developmen, Kotlin development and Backend (Vert.x, Spring Boot) development
 - 📫  How to reach me: https://t.me/mr_adkhambek
 - ⚡   Fun fact about me: I'm muslim. I do'nt know russian.
-- 🤯  My skils: Android (from 3 years), Backend (from 6 months)
+- 🤯  My skils: Android (from 3 years), Backend (from 8 months)
 
 
 ![R2](https://media.giphy.com/media/3o84sKpXBhJ0tRhqJa/giphy.gif)
