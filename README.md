@@ -2,7 +2,7 @@
 
 
 
-- 🔭  I’m currently working on PDP academy (https://pdp.uz)
+- 🔭  I’m currently search a job
 - 🌱  I’m currently learning Docker, Vert.x, Spring Boot (with DevOps), English
 - 🤔  I’m looking for help with Learn English
 - 💬  Ask me about Android developmen, Kotlin development and Backend (Vert.x, Spring Boot) development
