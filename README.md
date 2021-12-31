@@ -3,8 +3,7 @@
 
 > ## My name is Adkhambek and I'm a software engineer. I'm from Uzbekistan, living in Toshkent and currently looking for a job.
 
-<br/>
-<br/>
+<hr>
 
 ## 🔧 Technologies & Tools
 ![Android](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
@@ -17,22 +16,22 @@
 ![CMake](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
- ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git&logoColor=white&color=2bbc8a)
+ ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![Spring](https://img.shields.io/badge/Frameworks-Spring_Boot-informational?style=flat&logo=Spring-Boot&logoColor=white&color=2bbc8a)
+![Vert.X](https://img.shields.io/badge/Frameworks-Vert.X-informational?style=flat&logo=vert_x&logoColor=white&color=2bbc8a)
 
-
-
-# Facts
+<hr>
 
 - 🔭  I’m currently looking for a job
 - 📱  I’m Android/Backend developer
 - 🌱  I’m currently learning Docker, Vert.x, Spring Boot (with DevOps), English
 - 🤔  I’m looking for help with Learn English
 - 💬  Ask me about Android developmen, Kotlin development and Backend (Vert.x, Spring Boot) development
-- 📫  How to reach me: https://t.me/mr_adkhambek or on [![LinkedIn][1.1]][1]
+- 📫  How to reach me: [Telegram][1.1]  or on [LinkedIn][1.2]
 - ⚡   Fun fact about me: I'm muslim. I don’t know russian.
 - 🤯  My skils: Android (from 3 years), Backend (from 1 year)
 
-
+<hr>
 </br>
 <p align="center">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrAdkhambek&show_icons=true&theme=calm" width="50%"/>
@@ -43,13 +42,8 @@
 <img src="https://media.giphy.com/media/3o84sKpXBhJ0tRhqJa/giphy.gif" width="100%">
 
 
-
 <!-- links to social media icons -->
-
 <!-- icons with padding -->
 
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-[1]: https://www.linkedin.com/in/mradkhambek/
+[1.1]: https://www.t.me/mr_adkhambek/
+[1.2]: https://www.linkedin.com/in/mradkhambek/
