@@ -26,7 +26,7 @@
 - 📱  I’m Android/Backend developer
 - 🌱  I’m currently learning Docker, Vert.x, Spring Boot (with DevOps), English
 - 🤔  I’m looking for help with Learn English
-- 💬  Ask me about Android developmen, Kotlin development and Backend (Vert.x, Spring Boot) development
+- 💬  Ask me about Android development, Kotlin development and Backend (Vert.x, Spring Boot) development
 - 📫  How to reach me: [Telegram][1.1]  or on [LinkedIn][1.2]
 - ⚡   Fun fact about me: I'm muslim. I don’t know russian.
 - 🤯  My skils: Android (from 3 years), Backend (from 1 year)
