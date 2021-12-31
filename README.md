@@ -1,7 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2> 
 
-
-> ## My name is Adkhambek and I'm a software engineer. I'm from Uzbekistan, living in Toshkent and currently looking for a job.
+### My name is Adkhambek and I'm a software engineer. I'm from Uzbekistan, living in Toshkent and currently looking for a job.
 
 <hr>
 
