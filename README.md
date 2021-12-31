@@ -13,6 +13,7 @@
 ![Android Studio](https://img.shields.io/badge/Editor-Android%20Studio-green?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 ![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![Cpp](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![CMake](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
