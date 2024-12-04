@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2> 
 
-### My name is Adkhambek and I'm a software engineer. I'm from Uzbekistan, living in Toshkent and currently looking for a job.
+### My name is Adkhambek and I'm a software engineer. I'm from Uzbekistan, living in Toshkent.
 
 <hr>
 
@@ -10,26 +10,25 @@
 ![IntelliJ-IDEA](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![Android Studio](https://img.shields.io/badge/Editor-Android%20Studio-green?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
+
 ![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![Cpp](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+
 ![CMake](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
  ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![Spring](https://img.shields.io/badge/Frameworks-Spring_Boot-informational?style=flat&logo=Spring-Boot&logoColor=white&color=2bbc8a)
-![Vert.X](https://img.shields.io/badge/Frameworks-Vert.X-informational?style=flat&logo=vert_x&logoColor=white&color=2bbc8a)
+
+![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
 <hr>
 
-- 🔭  I’m currently looking for a job
 - 📱  I’m Android/Backend developer
-- 🌱  I’m currently learning Docker, Vert.x, Spring Boot (with DevOps), English
-- 🤔  I’m looking for help with Learn English
-- 💬  Ask me about Android development, Kotlin development and Backend (Vert.x, Spring Boot) development
+- 🌱  I’m currently learning C++, Spring Boot, English
+- 💬  Ask me about Android development, Kotlin development and Backend (Spring Boot) development
 - 📫  How to reach me: [Telegram][1.1]  or on [LinkedIn][1.2]
-- ⚡   Fun fact about me: I'm muslim. I don’t know russian.
-- 🤯  My skils: Android (from 3 years), Backend (from 1 year)
+- 🤯  My skils: Android (from 6 years), Backend (from 1 year)
 
 <hr>
 </br>
