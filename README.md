@@ -18,7 +18,7 @@ const auto dev = Developer {
 
 - 📱  I’m Android/Backend developer
 - 🌱  I’m currently learning C++, Spring Boot, English
-- 💬  Ask me about Android development, Kotlin development and Backend (Spring Boot) development
+- 💬  Ask me about Android development, Kotlin development and Backend development
 - 📫  How to reach me: [Telegram][1.1]  or on [LinkedIn][1.2]
 - 🤯  My skils: Android (from 6 years), Backend (from 1 year)
 <hr>
