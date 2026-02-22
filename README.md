@@ -15,7 +15,10 @@ cat skills.conf
 # ── Frameworks ───────────────────────────────────
 #   Android SDK       ███████████████████░  expert
 #   Jetpack Compose   ████████████████░░░░  advanced
-#   Spring Boot       ████████░░░░░░░░░░░░  learning
+#   Spring Boot       ███████████████░░░░░  advanced
+#   Vert.x            ███████████████░░░░░  advanced
+#   Drogon (C++)      ████████████░░░░░░░░  intermediate
+#   Axum (Rust)       ██████░░░░░░░░░░░░░░  learning
 #   CMake             ████████░░░░░░░░░░░░  learning
 #
 # ── Tools ────────────────────────────────────────
