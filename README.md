@@ -28,9 +28,9 @@ cat skills.conf
 top
 # PID   TASK                  STATUS
 # 001   Advanced C++          ▓▓▓▓▓▓▓▓░░░░  in progress
-# 002   Rust                  ▓▓▓▓▓▓▓▓░░░░  in progress
-# 003   Spring Boot           ▓▓▓▓▓░░░░░░░  in progress
-# 004   English               ▓▓▓▓▓▓▓▓▓░░░  in progress
+# 002   Rust                  ▓▓▓▓▓░░░░░░░  in progress
+# 003   Spring Boot           ▓▓▓▓▓▓▓▓▓░░░  in progress
+# 004   English               ▓▓▓▓▓▓▓▓░░░░  in progress
 
 cat /etc/motd
 # 💬 Ask me about Android, Kotlin, Jetpack Compose, or Backend dev
