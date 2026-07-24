@@ -39,7 +39,7 @@ cat /etc/motd
 # 💬 Ask me about Android, Kotlin, Jetpack Compose, or Backend dev
 
 cat ~/.contact
-#   📬  telegram   →  t.me/mr_adkhambek
+#   📬  telegram   →  t.me/mrAdkhambek
 #   💼  linkedin   →  linkedin.com/in/mradkhambek
 #   🌐  website    →  adkhambek.com
 
@@ -50,7 +50,7 @@ fortune
 ```
 
 <div align="center">
-  <a href="https://www.t.me/mr_adkhambek"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/mrAdkhambek"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.linkedin.com/in/mradkhambek"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://adkhambek.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
 </div>
